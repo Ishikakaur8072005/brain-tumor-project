@@ -33,7 +33,7 @@ A full-stack web application designed to assist in the early detection of brain 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/brain-tumor-project.git
+git clone https://github.com/Ishikakaur8072005/brain-tumor-project.git
 cd brain_tumor_project
 ```
 
