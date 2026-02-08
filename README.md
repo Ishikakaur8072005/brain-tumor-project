@@ -72,9 +72,4 @@ The application will run at `http://localhost:3000`.
 - [ ] Docker containerization for easy deployment.
 - [ ] CI/CD Pipeline integration.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-*Created by [Your Name] - 2026*
