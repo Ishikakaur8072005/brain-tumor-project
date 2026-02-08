@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+tensorflow
+keras
+pillow
+requests
+python-dotenv           # for reading .env file
+psycopg2-binary         # if using PostgreSQL
+newsapi-python        # for trends.py
+silence-tensorflow      # for main.py
+uvicorn
+python-multipart
