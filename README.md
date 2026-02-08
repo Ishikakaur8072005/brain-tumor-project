@@ -3,7 +3,7 @@
 A full-stack web application designed to assist in the early detection of brain tumors using MRI imagery and Deep Learning. This system integrates a **React** frontend for an intuitive user experience with a **FastAPI** backend for robust and efficient model serving.
 
 ![Project Status](https://img.shields.io/badge/Status-Development-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 ## 🚀 Features
 
